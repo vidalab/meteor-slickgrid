@@ -7,7 +7,7 @@ Package.on_use(function (api) {
   api.add_files([
     'lib/jquery.event.drag.js',
     'lib/jquery.event.drop.js',
-    'lib/SlickGrid/slick.grid.js']
+    'lib/SlickGrid/slick.*.js']
     ,'client'
   );
 });
