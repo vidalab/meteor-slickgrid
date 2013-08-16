@@ -3,6 +3,6 @@
   "description": "SlickGrid package for Meteor",
   "homepage": "https://github.com/dnprock/meteor-slickgrid",
   "author": "Phuoc Do <dnprock@gmail.com>",
-  "version": "0.1",
+  "version": "0.0.1",
   "git": "https://github.com/dnprock/meteor-slickgrid.git"
 }
