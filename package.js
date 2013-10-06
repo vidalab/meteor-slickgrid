@@ -15,7 +15,8 @@ Package.on_use(function (api) {
       'lib/SlickGrid/slick.formatters.js',
       'lib/SlickGrid/slick.groupitemmetadataprovider.js',
       'lib/SlickGrid/slick.grid.js',
-      'lib/SlickGrid/slick.remotemodel.js'
+      'lib/SlickGrid/slick.remotemodel.js',
+      'lib/SlickGrid/images/header-columns-bg.gif'
     ]
     ,'client'
   );
