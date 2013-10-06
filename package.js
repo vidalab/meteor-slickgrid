@@ -16,7 +16,8 @@ Package.on_use(function (api) {
       'lib/SlickGrid/slick.groupitemmetadataprovider.js',
       'lib/SlickGrid/slick.grid.js',
       'lib/SlickGrid/slick.remotemodel.js',
-      'lib/SlickGrid/images/header-columns-bg.gif'
+      'lib/SlickGrid/images/header-columns-bg.gif',
+      'lib/SlickGrid/images/header-columns-over-bg.gif'
     ]
     ,'client'
   );
