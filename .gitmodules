@@ -1,4 +1,0 @@
-
-[submodule "lib/SlickGrid"]
-	path = lib/SlickGrid
-	url = git@github.com:mleibman/SlickGrid.git
