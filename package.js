@@ -1,8 +1,12 @@
 Package.describe({
-  summary: "SlickGrid package for meteor"
+  name: "phuocd:slickgrid",
+  summary: "SlickGrid package for meteor",
+  version: "1.0.1",
+  git: "https://github.com/vidalab/meteor-slickgrid.git"
 });
 
 Package.on_use(function (api) {
+  api.versionsFrom("METEOR@0.9.0");
   api.use('jquery', 'client');
   api.add_files([
       'lib/SlickGrid/slick-default-theme.css',
